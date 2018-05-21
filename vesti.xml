@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+ <title>World of tanks</title>
+ <link>http://www.World of tanks.com/Index</link>
+ <description>Welcome to World of tanks Home page</description>
+ <item>
+  <title>SSSR Nation</title>
+  <link>http://www.World of tanks.com/stranice/rus</link>
+  <description>Learn about the Russian tanks</description>
+ </item>
+ <item>
+  <title>UK Nation</title>
+  <link>http://www.World of tanks.com/stranice/uk</link>
+  <description>Learn about the United Kingdom tanks</description>
+ </item>
+ <item>
+  <title>Germany Nation</title>
+  <link>http://www.World of tanks.com/stranice/ger</link>
+  <description>Learn about the German tanks</description>
+ </item>
+ <item>
+  <title>Author</title>
+  <link>http://www.World of tanks.com/stranice/autor</link>
+  <description>Something about the author</description>
+ </item>
+ <item>
+  <title>Register</title>
+  <link>http://www.World of tanks.com/stranice/login</link>
+  <description>Don't have an account? Make one today!</description>
+ </item>
+</channel>
+</rss>
